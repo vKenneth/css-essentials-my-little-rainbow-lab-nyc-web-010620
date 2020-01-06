@@ -85,3 +85,9 @@ RSpec.describe 'Navigation and Nested Elements' do
 
 end
 
+<html>
+
+   <head><!-- where all the meta data will go, like and files we need to include -->
+     <link rel="stylesheet" href="main.css">
+     <title>My Little Rainbow</title><!-- the title is what appears on your tab -->
+   </head>
